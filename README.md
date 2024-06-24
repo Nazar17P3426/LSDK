@@ -1,2 +1,2 @@
 # LSDK
-GDI Malware
+C++ skidded GDI trojan by windowsuranus
